@@ -29,7 +29,7 @@ File      | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s
 ----------|---------|----------|---------|---------|-------------------
 All files |     100 |      100 |     100 |     100 |
  index.js |     100 |      100 |     100 |     100 |
-----------|---------|----------|---------|---------|-------------------
+
 Test Suites: 1 passed, 1 total
 Tests:       5 passed, 5 total
 Snapshots:   0 total
