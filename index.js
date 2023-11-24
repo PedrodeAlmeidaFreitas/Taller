@@ -18,6 +18,7 @@ function licenseKeyFormating(StringToFormat, GroupLength) {
     return reformattedString;
 }
 
+console.log('S = “5F3Z-2e-9-w”, K = 4 | Result: ', licenseKeyFormating("5F3Z-2e-9-w", 4));
 console.log('S = “2-5g-3-J”, K = 2 | Result: ', licenseKeyFormating("2-5g-3-J", 2));
 
 module.exports = licenseKeyFormating;
