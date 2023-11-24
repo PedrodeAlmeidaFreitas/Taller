@@ -1,0 +1,24 @@
+{
+  "name": "taller-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedrodeAlmeidaFreitas/taller-challenge.git"
+  },
+  "author": "Pedro Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedrodeAlmeidaFreitas/taller-challenge/issues"
+  },
+  "homepage": "https://github.com/PedrodeAlmeidaFreitas/taller-challenge#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
